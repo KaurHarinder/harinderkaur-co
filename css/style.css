@@ -100,7 +100,7 @@
 }
 
 .cont{
-  height:500px;
+  height:530px;
 }
 
 .p1{
@@ -667,6 +667,11 @@ a{
       padding:50px;
       margin-left:260px;
     }
+      
+      .cont{
+      height:400px;
+    }
+
 
     .mywork{
       margin-left: 220px;
