@@ -9,6 +9,10 @@
     text-align: justify;
   }
 
+  .work{
+  margin-left: 50px;
+}
+
   .header,.footer1, .footer2{
     background-color: #326872;
   }
