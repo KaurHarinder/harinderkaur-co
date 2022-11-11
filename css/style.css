@@ -9,6 +9,11 @@
     text-align: justify;
   }
 
+.flow, .craguserflows{
+    box-shadow: #326872 1px 1px 1px 1px;
+    margin:10px;
+  }
+
   .work{
   margin-left: 50px;
 }
