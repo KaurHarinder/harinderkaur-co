@@ -374,13 +374,13 @@ a{
   height: 300px;
   width: 250px;
   margin-left: 50px;
-  border: 1px solid grey;
+ 
 }
 
 .cui{
   height:300px;
   width:250px;
-  border:1px solid gray;
+ 
 }
 
 .cu{
@@ -975,7 +975,7 @@ a{
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   justify-content:space-around;
   padding:10px;
-  border:1px solid black;
+  
   margin:20px;
  }
 
@@ -990,7 +990,7 @@ a{
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   justify-content:space-around;
   padding:10px;
-  border:1px solid black;
+ 
   margin:20px;
  }
 
