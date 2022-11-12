@@ -429,13 +429,14 @@ a{
   height:180px;
   width:130px;
   margin-left: 40px;
+    margin-top:10px;
 }
 
 .ui1, .mk1{
   height:300px;
   width:250px;
   margin-left: 20px;
-  border:1px solid gray;
+ 
   margin:10px;
 }
 
@@ -838,7 +839,7 @@ a{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-content:space-around;
-  border:1px solid black;
+ 
   margin:20px;
  }
 
@@ -853,7 +854,7 @@ a{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-content:space-around;
-  border:1px solid black;
+ 
   margin:20px;
  }
 
